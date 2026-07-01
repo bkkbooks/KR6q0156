@@ -1,0 +1,99 @@
+canonical_identifier: bkk:krp/KR6q0156/v1
+canonical_location: https://kanripo.org/bkk/KR6q0156/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 禪林寶訓順硃
+  identifiers:
+    alt_id:
+    - X64n1265
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X64/X64n1265.xml
+    old_id: X64n1265
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0156_000.yaml, hash: 'sha256:a6be64c3cae5e1783fc9688ec5e65a0d24efa7181f67fb9a9453737b0b41908e'}
+  - {seq: 1, filename: KR6q0156_001.yaml, hash: 'sha256:e72ab7dda398eb2000f420e56247ee1c606e5b22f5dfb87f7ef3fd8b340618bc'}
+  - {seq: 2, filename: KR6q0156_002.yaml, hash: 'sha256:c6522e87d1210351afda4e2d158e7e2be5b1c69fc9e409e2febfd86ab0a6c693'}
+  - {seq: 3, filename: KR6q0156_003.yaml, hash: 'sha256:7ee658bf07ec571391eb7ef80032fbad4944f246de8257879a45c1a9d64a6a05'}
+  - {seq: 4, filename: KR6q0156_004.yaml, hash: 'sha256:d723efe059cae8f0269df6fa4c27330b51cc7d9605a221ccb38b2ee1b7f474f3'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0156_000.markers.yaml, hash: 'sha256:5e8f2b300210c254220d4a1395a24e92d5abbc29469f3ea1a45396d64f55840f'}
+  - {seq: 1, role: markers, filename: assets/KR6q0156_001.markers.yaml, hash: 'sha256:700a68872e2da0a57c251d517f82ee8838d3b8a8e7d4e47200f9e48a0212d741'}
+  - {seq: 2, role: markers, filename: assets/KR6q0156_002.markers.yaml, hash: 'sha256:f6edbcd76c7fde96f97074d536635cd4ce62399615ebc0637c4c8f293cc29dc9'}
+  - {seq: 3, role: markers, filename: assets/KR6q0156_003.markers.yaml, hash: 'sha256:920f27e2cbfc30dc176d4ba2f3c869f23302381a148873426b08a45f4deccac8'}
+  - {seq: 4, role: markers, filename: assets/KR6q0156_004.markers.yaml, hash: 'sha256:0ae91ae082396575537629639a89501116412110fdf36abaebd5ab8763295486'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0156_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1265-A 禪林寶訓順硃序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0156_X_000-mulu-2
+    span:
+    - front
+    - 234
+    - 234
+  label: 禪林寶訓順硃
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0156_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 28491
+  label: 禪林寶訓順硃卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0156_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 28572
+  label: 禪林寶訓順硃卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0156_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 27707
+  label: 禪林寶訓順硃卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0156_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 30219
+  label: 禪林寶訓順硃卷第四
+  type: juan
+  level: 1
+hash: sha256:7cf4989bd4c05dba584310d4020a6f951a9b07f7bdf91ce7a0a1f7a2a87ae711
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
