@@ -1,14 +1,11 @@
 canonical_identifier: bkk:krp/KR6q0156/x/v1/juan/0
 seq: 0
-front:
+body:
   text: 禪林寶訓順硃序季而順硃者何為吾輩見識粗浮只認昭昭靈靈夢幻伴子不真參不實悟不遵先聖禮法不守節義者聊疏前賢之意以自警也又為吾輩參禪者見識卑近參來參去沒有滋味沒有效驗便覧外典習詩習文且求眼前受用倏而鄉校倏而方醫倏而衙掾則禹門三級浪矣何捷如之余痛斯弊故請棲霞山人作寶訓句解先以欲勾牽引之入佛慧焉不意棲霞山人才高識大虧諦釋典不顯淺開喻反成郭象註莊子也見者苦之余于此不忍訥遂效顰出醜順硃填墨一上一以隨所欲而勾入佛慧一以自警云耳故不畏諸方駁笑于戊午夏末槀成常住以俟智士郢政焉爾德玉敘
   hash: sha256:d0e9f465c92ebb49a2e1c02c897f50b6e5e3c6af00cb6555e7d80bff291e3f72
   markers:
   - {type: 序, offset: 0, content: No. 1265-A 禪林寶訓順硃序, id: KR6q0156_X_000-mulu-1, level: '1'}
   - {type: 其他, offset: 234, content: 禪林寶訓順硃, id: KR6q0156_X_000-mulu-2, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 禪林寶訓順硃
   edition:
@@ -17,4 +14,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/X/X64/X64n1265.xml
     old_id: X64n1265
-hash: sha256:7d963b55c81587a7cb8e10718caf1da31c83280423a695b707ae54a975a56d25
+hash: sha256:0adfd50dca535f0b72ff6224789796457154c19e198ff0a921640c5080d4a315

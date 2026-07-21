@@ -19,13 +19,13 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0156_000-X.yaml, hash: 'sha256:7d963b55c81587a7cb8e10718caf1da31c83280423a695b707ae54a975a56d25'}
+  - {seq: 0, filename: KR6q0156_000-X.yaml, hash: 'sha256:0adfd50dca535f0b72ff6224789796457154c19e198ff0a921640c5080d4a315'}
   - {seq: 1, filename: KR6q0156_001-X.yaml, hash: 'sha256:585c99c2b485338477bc5ad8d3a7d44e8be13f85d97eedd74b8ba2c432d79c71'}
   - {seq: 2, filename: KR6q0156_002-X.yaml, hash: 'sha256:2a74c610435682ca6b5bc85cd84f588c483707e807d8581966c7a08ef9bf3b4f'}
   - {seq: 3, filename: KR6q0156_003-X.yaml, hash: 'sha256:f48eb3ddfdf60cde57074afd7d7c390e28aab36c901faa313084ff9e49db179f'}
   - {seq: 4, filename: KR6q0156_004-X.yaml, hash: 'sha256:21b9dfd3165e409b0f11fd89572fc208c3def9e0eeb7f2e909ccec310b6f53d7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0156_000-X.markers.yaml, hash: 'sha256:bdd71f96ce1d3a7fbd52dc7ad49a0e287ad289cb1a66059fcbe08e1fc5558f91'}
+  - {seq: 0, role: markers, filename: assets/KR6q0156_000-X.markers.yaml, hash: 'sha256:f0e633fa1095768d4d8ebde9c0b2b9e4a924572220c59ce1dab87893a51bcee9'}
   - {seq: 1, role: markers, filename: assets/KR6q0156_001-X.markers.yaml, hash: 'sha256:5e753ace4a74bef93051a3c890e6fa034c66aa00ccd5177b0f7b109dcd89d937'}
   - {seq: 2, role: markers, filename: assets/KR6q0156_002-X.markers.yaml, hash: 'sha256:429c950b22321580843b9294823a35ee5402d3b609686dc9909d77fddde09b01'}
   - {seq: 3, role: markers, filename: assets/KR6q0156_003-X.markers.yaml, hash: 'sha256:a083aa7279f84764c0fc41e943dbec59b0c039672b6a1570d28187f6c2385973'}
@@ -35,7 +35,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0156_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1265-A 禪林寶訓順硃序
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0156_X_000-mulu-2
     span:
-    - front
+    - body
     - 234
     - 234
   label: 禪林寶訓順硃
@@ -91,4 +91,4 @@ table_of_contents:
   label: 禪林寶訓順硃卷第四
   type: juan
   level: 1
-hash: sha256:2e5a2144bfbe275dca5c8494766e3fdc866dcbdf1cf8bdee879a2a8f7645d711
+hash: sha256:0167ba131684afebae2df109c17a5c2d0afda0007a3926934694845deb377d11
